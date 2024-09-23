@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Thiago dos Santos Vicente.<br>Atuamente trabalho como suporte técnico de Infraestrutura e tentando melhorar um pouco o meu curriculo</p>
+<p align="left">Meu nome é Thiago dos Santos Vicente.<br>Atuamente trabalho como suporte técnico de Infraestrutura e tentando explorar novos horizontes.</p>
 
 ###
 

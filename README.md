@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bubs que eu nasci<br>📚 Atualmente estou melhorando meu nível de python e estudando analise de dados<br>🎯 Metas futuras são: UI, Database<br>🎲 Fatos interessantes: Gosto de Rpg de mesa, ler mangá e conversar com os amigos</p>
+<p align="left">✨ Criando bubs desde que eu nasci<br>📚 Atualmente estou melhorando meu nível de python e estudando analise de dados<br>🎯 Metas futuras são: UI, Database<br>🎲 Fatos interessantes: Gosto de Rpg de mesa, ler mangá e conversar com os amigos</p>
 
 ###
 

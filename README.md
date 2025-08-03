@@ -52,12 +52,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Tdotvicente/count.svg?"  />
-</div>
-
-###
-
 <!--
 **Tdotvicente/Tdotvicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
